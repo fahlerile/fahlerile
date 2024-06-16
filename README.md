@@ -1,7 +1,1 @@
-Hello! My name is Kirill.
-
-I am currently working on [my software rasterizer](https://www.github.com/fahlerile/rasterizer) and learning computer graphics.
-
-Telegram: `@kitrofimov`
-
-Discord: `@fahlerile`
+Hello! My name is Kirill. I am a high school student and I am currently working on [my software rendering pipeline](https://www.github.com/fahlerile/srp) and learning the basics of computer graphics.
